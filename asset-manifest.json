@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reto3_trello/static/css/main.8379d2be.chunk.css",
+    "main.js": "/reto3_trello/static/js/main.9498cde4.chunk.js",
+    "main.js.map": "/reto3_trello/static/js/main.9498cde4.chunk.js.map",
+    "runtime-main.js": "/reto3_trello/static/js/runtime-main.07a62d50.js",
+    "runtime-main.js.map": "/reto3_trello/static/js/runtime-main.07a62d50.js.map",
+    "static/js/2.ee5c411f.chunk.js": "/reto3_trello/static/js/2.ee5c411f.chunk.js",
+    "static/js/2.ee5c411f.chunk.js.map": "/reto3_trello/static/js/2.ee5c411f.chunk.js.map",
+    "static/js/3.9947af7f.chunk.js": "/reto3_trello/static/js/3.9947af7f.chunk.js",
+    "static/js/3.9947af7f.chunk.js.map": "/reto3_trello/static/js/3.9947af7f.chunk.js.map",
+    "index.html": "/reto3_trello/index.html",
+    "static/css/main.8379d2be.chunk.css.map": "/reto3_trello/static/css/main.8379d2be.chunk.css.map",
+    "static/js/2.ee5c411f.chunk.js.LICENSE.txt": "/reto3_trello/static/js/2.ee5c411f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a62d50.js",
+    "static/js/2.ee5c411f.chunk.js",
+    "static/css/main.8379d2be.chunk.css",
+    "static/js/main.9498cde4.chunk.js"
+  ]
+}
