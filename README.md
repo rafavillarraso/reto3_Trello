@@ -9,3 +9,5 @@ La modificación de estilos se ha realizado con la sintaxis de objetos, dentro d
 Para la gestión del drag and drop se ha usado la dependencia react-beautiful-dnd.
 
 Inicialmente en el repositorio figuraban toda la estructura de documentos del mismo modo que en local, pero tras realizar el deployeado para github pages, segun lo indicado en: https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom, se ha modificado dicha estructura, aunque se mantienen los commits. 
+
+La pagina deployeada esta en: https://rafavillarraso.github.io/reto3_trello/
